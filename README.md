@@ -1,2 +1,2 @@
 # valentines
-My valentine website for Murhandziwa
+My valentines day website for Murhandziwa
